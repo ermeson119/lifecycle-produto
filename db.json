@@ -1,1 +1,6 @@
-{"nome":"Televisão","valor":10000.0}
+{
+  "produto": {
+    "nome": "TV",
+    "valor": 9000
+  }
+}
